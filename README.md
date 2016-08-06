@@ -1,2 +1,2 @@
-# HW2-Part1
-Homework 2 Part 1
+# Basic-Portfolio
+Week 1 (Recommended) Assignment- That Portoflio Though...
